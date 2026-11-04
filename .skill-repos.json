@@ -1,0 +1,7 @@
+{
+  "slug": "multi-search-engine",
+  "displayName": "多引擎搜索",
+  "description": "Multi search engine integration with 17 engines. No API keys required.",
+  "releaseVersion": "2.1.9",
+  "authorVersion": "2.1.3"
+}
